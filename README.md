@@ -1,3 +1,3 @@
 # Training
 
-1. ## [JavaScript](./Concept%20of%20JavaScript/Grammar/Grammar.md)
+1. ## [JavaScript](./Concept%20of%20JavaScript/Grammar)
