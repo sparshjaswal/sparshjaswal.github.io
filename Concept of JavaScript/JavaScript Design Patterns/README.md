@@ -15,8 +15,8 @@ The pattern is defined as a problem-solution pair. It is a description or templa
 
 Pattern simply means problem solution pair.Design Patterns are broadly categorized as below:-
 
-1. ### [Creation Design Patterns](./Creation%20Design%20Patterns)
+1. ### [Creation Design Patterns](./Creation%20Design%20Pattern)
 
 1. ### [Structural Design Pattern](./Structural%20Design%20Pattern)
 
-1. ### [Behavioral Design Pattern](./Behavioral%20Design%20Patterns)
+1. ### [Behavioral Design Pattern](./Behavioral%20Design%20Pattern)
