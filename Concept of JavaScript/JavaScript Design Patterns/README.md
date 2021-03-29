@@ -1,13 +1,15 @@
 # Pattern in JavaScript
 
-The pattern is defined as a problem-solution pair. 
+The pattern is defined as a problem-solution pair.
 A design pattern always targets below problems in Object-Oriented System:-
+
 1. general proven solution
 1. Reuseable
 1. expressive
 
 ## Design Pattern
-Pattern simply means problem solution pair.
+
+Pattern simply means problem solution pair.Design Patterns are broadly categorized as below:-
 
 1. Creation Design Patterns
 1. Structural Design Pattern
@@ -15,7 +17,7 @@ Pattern simply means problem solution pair.
 
 Creation Design Pattern is a pattern that deals with Object creation mechanisms.
 
-### The creation design patterns are below:- 
+### Creation Design Patterns
 
 1. Constructor
 1. FactoryAbstract
@@ -32,6 +34,7 @@ Creation Design Pattern is a pattern that deals with Object creation mechanisms.
 1. Proxy
 
 ### Behavioral Design Patterns
+
 1. Iterator
 1. Mediator
 1. Observer
