@@ -6,18 +6,12 @@ _Note: - Its recommended to follow the same order for learning as the lesson is 
 
 ## Core Concepts of JavaScript
 
-1. ### [What is JavaScript](./What%20is%20JavaScript.md)
+1. ### [What is JavaScript](./Introduction)
 
-1. ### [Grammar/Basic of JavaScript](./Concept%20of%20JavaScript/Grammar/Grammar.md)
+1. ### [Functional Programming](./functional%20programming)
 
-1. ### [Functional Programming](./Concept%20of%20JavaScript/functional%20programming)
+1. ### [Array](./Array)
 
-1. ### [Array](./Concept%20of%20JavaScript/Array)
+1. ### [Object Oriented Programming](./Object%20Oriented%20Programming)
 
-1. ### [Object Oriented Programming](./Concept%20of%20JavaScript/Object%20Oriented%20Programming)
-
-1. ### [Pattern in JavaScript](https://link)
-
-1. ### [DOM](./Concept%20of%20JavaScript/DOM)
-
-1. ### [login](./project/login/README.md)
+1. ### [DOM](./DOM)
