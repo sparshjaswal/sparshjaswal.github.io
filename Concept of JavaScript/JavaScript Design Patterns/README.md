@@ -21,7 +21,8 @@ Creation Design Pattern is a pattern that deals with Object creation mechanisms.
 1. FactoryAbstract
 1. Prototype
 1. Singleton
-1. Builder 
+1. Builder
+
 ### Structural Design Pattern
 
 1. Decorator
