@@ -17,7 +17,7 @@ Pattern simply means problem solution pair.Design Patterns are broadly categoriz
 
 Creation Design Pattern is a pattern that deals with Object creation mechanisms.
 
-### Creation Design Patterns
+### Creational Design Patterns
 
 1. Constructor
 1. FactoryAbstract
