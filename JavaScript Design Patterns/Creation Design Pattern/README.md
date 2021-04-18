@@ -20,7 +20,7 @@ These design patterns are all about class instantiation. This pattern can be fur
 
     Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
 
-1. ## Prototype 
+1. ## Prototype
 
     A fully initialized instance to be copied or cloned
     Singleton
