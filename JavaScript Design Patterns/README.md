@@ -20,3 +20,5 @@ Pattern simply means problem solution pair.Design Patterns are broadly categoriz
 1. ### [Structural Design Pattern](./Structural%20Design%20Pattern)
 
 1. ### [Behavioral Design Pattern](./Behavioral%20Design%20Pattern)
+
+## SOLID Design Principal
