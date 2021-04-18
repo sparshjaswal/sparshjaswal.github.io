@@ -18,7 +18,7 @@ These design patterns are all about class instantiation. This pattern can be fur
 
 1. ## Object Pool
 
-    Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
+    Avoid expensive acquisition and release of resources by recycling objects that are no longer in
 
 1. ## Prototype
 
