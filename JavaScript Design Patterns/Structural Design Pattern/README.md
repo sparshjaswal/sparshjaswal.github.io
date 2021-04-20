@@ -8,7 +8,7 @@ it states that every software entities should have only one responsibility.
 
 1. ## O - Open/closed principles
 
-it states software entities should be open for extension and closed for modification
+it states software entities should be open for extension and closed for modification and
 
 1. ## L - Liskov substitution principle
 
