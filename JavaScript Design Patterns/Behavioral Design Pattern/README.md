@@ -30,6 +30,7 @@ These design patterns are all about Class's objects communication. Behavioral pa
 
     Designed to act as a default value of an object
 
+
 1. ### Observer
 
     A way of notifying change to a number of classes
