@@ -1,33 +1,19 @@
-# Structural design patterns
+# SOLID DESIGN PRINCIPLE
 
-These design patterns are all about Class and Object composition. Structural class-creation patterns use inheritance to compose interfaces. Structural object-patterns define ways to compose objects to obtain new functionality.
+Design principles introduced by Robert C Martin aka Uncle Bob.
 
-1. ### Adapter
+1. ## S - Single responsibility principle
 
-    Match interfaces of different classes
+it states that every software entities should have only one responsibility.
 
-1. ### Bridge
+1. ## O - Open/closed principles
 
-    Separates an object’s interface from its implementation
-    Composite
-    A tree structure of simple and composite objects
+it states software entities should be open for extension and closed for modification
 
-1. ### Decorator
+1. ## L - Liskov substitution principle
 
-    Add responsibilities to objects dynamically
+1. ## I - Interface segregation principle
 
-1. ### Facade
+1. ## D - Dependency inversion principle
 
-    A single class that represents an entire subsystem
-
-1. ### Flyweight
-
-    A fine-grained instance used for efficient sharing
-
-1. ### Private Class Data
-
-    Restricts accessor/mutator access
-
-1. ### Proxy
-
-    An object representing another object
+also know as Dependency inversion principle

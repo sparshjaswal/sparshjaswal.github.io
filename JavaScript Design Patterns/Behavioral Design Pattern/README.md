@@ -26,7 +26,7 @@ These design patterns are all about Class's objects communication. Behavioral pa
 
     Capture and restore an object's internal state
 
-1. ### Null Object
+1. ### Null Object(not a key)
 
     Designed to act as a default value of an object
 
