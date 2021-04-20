@@ -38,7 +38,6 @@ These design patterns are all about Class's objects communication. Behavioral pa
 
     Alter an object's behavior when its state changes
 
-
 1. ### Strategy
 
     Encapsulates an algorithm inside a class
