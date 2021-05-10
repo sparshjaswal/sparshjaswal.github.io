@@ -1,31 +1,36 @@
-# CHAPTER 23 | Creating Object
+# CHAPTER | Creating Object
 
 ## In Javascript, Objects can be created using below listed ways:-
 
-1. __Using an Object constructor and new Operator__
+1. **Using an Object constructor and new Operator**
 
 ```javaScript
 var Student = new Object();
 Student.name = 'Sparsh Jaswal';
 Student.dob = '25/07/1991';
+
+function Student(name,dob){
+    this.name=name;
+    this.dob=dob;
+}
+var student = new Student('sparsh','25/07/1991');
 ```
 
-1. __Object Literals (_comma-separated list of name-value pairs wrapped in curly braces_)__
+1. **Object Literals (_comma-separated list of name-value pairs wrapped in curly braces_)**
 
 ```javascript
-var Student= {
-    name : "Sparsh Jaswal",
-    age  : 28,
-    detail: function(){
-            console.log(this.name+"\n"+this.age)
-    }
-}
- [TODO Convention of writing Object in JS]
+var Student = {
+  name: "Sparsh Jaswal",
+  age: 28,
+  detail: function () {
+    console.log(this.name + "\n" + this.age);
+  },
+};
 ```
 
->Trailing comma following the last property in an object literal is ignored but in older browsers or IE considers them an error.
+> Trailing comma following the last property in an object literal is ignored but in older browsers or IE considers them an error.
 
-1. __Class (ES 6) defines the blueprint of an object But it's syntactically sugar work similar to traditional object creations__
+1. **Class (ES 6) defines the blueprint of an object But it's syntactically sugar work similar to traditional object creations**
 
 ```javascript
 class Student {
