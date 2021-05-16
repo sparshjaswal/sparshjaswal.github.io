@@ -1,6 +1,6 @@
 # CHAPTER | prototyping chaining
 
-Let's take an example to understand prototype chaining.
+## Let's take an example to understand prototype chaining
 
 1. ### Create an objects like Car, Truck and Bus for company Ford and with common rawMaterial
 
@@ -16,7 +16,7 @@ var Bus = new companyItem("Bus");
 var Truck = new companyItem("Truck");
 ```
 
-As we see we have wide variety of car.So, our Car Object doesn't specificity which modal of car is it.
+As a general use case, we have wide variety of car. So, our Car Object doesn't specify which modal of car is it.
 
 ```javascript
 function companyItem(productName) {
@@ -30,8 +30,9 @@ var Bus = new companyItem("Bus");
 var Truck = new companyItem("Truck");
 
 // modal of car
-Car.prototype.modal = function (modalName) {};
-
+Car.prototype.modal = function (modalName) {
+    console.log("Car Modal: ",modalName);
+};
 
 // TO DO
 1.
