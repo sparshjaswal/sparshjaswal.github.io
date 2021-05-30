@@ -1,6 +1,6 @@
 # Chapter 1 | **Closure**
 
-## Ability of function to store a reference which is outside the scope of function is closure
+## _Ability of function to store a reference which is outside the scope of function is closure_
 
 ### Let's see some practical use case
 
