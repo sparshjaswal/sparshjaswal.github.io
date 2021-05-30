@@ -8,19 +8,21 @@
 
 ### Design Principles :-
 
-1. #### **Extensibility** - *Do I constantly refactor my code to support additional functionality*
+1. #### **Extensibility** - _Do I constantly refactor my code to support additional functionality_
 
-2. #### **Generalize Code** - *DRY code or always write a generalize function*
+2. #### **Generalize Code** - _DRY code or always write a generalize function_
 
-3. #### **Easy to modularize** - *if I change one file, is another file affected?*
+3. #### **Easy to modularize** - _if I change one file, is another file affected?_
 
-4. #### **Reusability** - *is there a lot of duplication?*
+4. #### **Reusability** - _is there a lot of duplication?_
 
-5. #### **Testability** - *Do I struggle to unit test my functions?*
+5. #### **Testability** - _Do I struggle to unit test my functions?_
 
-6. #### **Easy to reason about** - *Is my case unstructured and hard to follow?*
+6. #### **Easy to reason about** - _Is my case unstructured and hard to follow?_
 
 ### Functional programming inherent declarative mode of development and based on below fundamental concepts:-
+
+1. ### [Functional Programming](./JavaScript/functional%20programming)
 
 1. #### **Declarative programming**
 
@@ -34,14 +36,13 @@
 
 1. #### **Functions are first-class and can be Higher-Order**
 
-
 # function & PROGRAMMING STYLE
 
- functions in javaScript are the fundamental building blocks and helps to improve readability and reusability of code.
+functions in javaScript are the fundamental building blocks and helps to improve readability and reusability of code.
 
 Defining/Declaring a function
 function functionName( parameter(s)) {
-  		statement(s);
+statement(s);
 }
 
 Calling of function
@@ -49,29 +50,28 @@ functionName(argument(s))
 
 An argument is an inbuilt object which stores all the value (s) being passed to a function.
 Given a problem statement, to check if a number is odd or even. The given problem statement can be achieved by below to ways:-
-1)
-var num =10;
-if(10%2===0)
-  		console.log("even");
-else 
-  		console.log("false");
-2)
-  	var num =10;
-  	oddOrEven(num);
-  	function oddOrEven(num){
-    		if(num%2===0)
-      			console.log(“even”);
-    		else 
-      			console.log(“false”);
-  	}
+
+1. var num =10;
+   if(10%2===0)
+   console.log("even");
+   else
+   console.log("false");
+2. var num =10;
+   oddOrEven(num);
+   function oddOrEven(num){
+   if(num%2===0)
+   console.log(“even”);
+   else
+   console.log(“false”);
+   }
 
 Both (1) & (2) solve our problem statements but correspondence to a different style of programming. Solution (1) is known as imperative programming and solution(2) is known declarative programming.
-  
 
 # Functional Programming
+
 OO makes code understandable by encapsulating moving parts.
 FP makes code understandable by minimizing moving parts.
-								--Michael Feathers (twitter)
+--Michael Feathers (twitter)
 Design Principles:-
 Extensibility - Do I constantly refactor my code to support additional functionality
 Generalize Code - DRY code or always write a generalize function.
