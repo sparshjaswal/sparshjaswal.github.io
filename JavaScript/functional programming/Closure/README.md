@@ -3,17 +3,16 @@
 ## Ability of a function to store a reference to anything outside its scope
 
 ```javascript
-  function fullName() {
-    var firstName = "sparsh"
-    return function () {
-      return firstName + " jaswal"
-    }
-  }
-  console.dir(fullName());
+function fullName() {
+  var firstName = "sparsh";
+  return function () {
+    return firstName + " jaswal";
+  };
+}
+console.dir(fullName());
+```
 
 ![closure](/closure.png)
-
-```
 
 let fullName = name(); // name function is pop out for call stack
 console.log(fullName()) // even if name function is pop out but
