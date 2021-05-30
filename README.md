@@ -1,7 +1,3 @@
----
-title: false
----
-
 # Training
 
 1. ## [JavaScript](./JavaScript/Grammar)
