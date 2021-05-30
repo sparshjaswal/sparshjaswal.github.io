@@ -1,5 +1,7 @@
 # Functional Programming
 
+1. ## [Closure](./Closure)
+
 ### There are two most common or popular ways of writing code
 
 1. #### **Imperative or Procedural programming**
