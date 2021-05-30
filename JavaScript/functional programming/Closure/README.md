@@ -11,7 +11,7 @@
   }
   console.dir(fullName());
 
-![closure](./closure.png)
+![closure](/closure.png)
 
 ```
 
