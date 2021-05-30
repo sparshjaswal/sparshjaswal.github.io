@@ -1,6 +1,6 @@
 # Chapter 1 | **Closure**
 
-> Ability of function to store a reference which is outside the scope of function is closure
+### Ability of function to store a reference which is outside the scope of function is closure
 
 ```javascript
 function fullName() {
