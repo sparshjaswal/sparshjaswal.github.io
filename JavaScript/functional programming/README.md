@@ -22,8 +22,6 @@
 
 ### Functional programming inherent declarative mode of development and based on below fundamental concepts:-
 
-1. ### [Functional Programming](./JavaScript/functional%20programming)
-
 1. #### **Declarative programming**
 
 1. #### **Pure functions**
