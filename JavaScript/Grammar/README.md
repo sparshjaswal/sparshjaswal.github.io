@@ -8,8 +8,6 @@ _**Note: - Its recommended to follow the same order for learning as the lesson i
 
 1. ### [What is JavaScript](./Introduction)
 
-1. ### [Functional Programming](./functional%20programming)
-
 1. ### [Array](./Array)
 
 1. ### [Object Oriented Programming](./Object%20Oriented%20Programming)
