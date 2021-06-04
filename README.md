@@ -1,6 +1,4 @@
----
-title: Training
----
+# Training
 
 1. ## [JavaScript](./JavaScript/Grammar)
 
