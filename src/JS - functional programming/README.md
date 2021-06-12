@@ -1,6 +1,6 @@
 # Functional Programming
 
-1. ## [closure](./Closure)
+1. **[closure](./Closure)**
 
 ### There are two most common or popular ways of writing code
 
