@@ -6,10 +6,8 @@ _**Note: - Its recommended to follow the same order for learning as the lesson i
 
 ## Core Concepts of JavaScript
 
-1. ### [What is JavaScript](./Introduction)
+1. ### [What is JavaScript](./JS%20-%20Basic)
 
-1. ### [Array](./Array)
+1. ### [Object Oriented Programming](./JS%20-%20OOP)
 
-1. ### [Object Oriented Programming](./Object%20Oriented%20Programming)
-
-1. ### [DOM](./DOM)
+1. ### [Functional Programming](./JS%20-%20functional%20programming)

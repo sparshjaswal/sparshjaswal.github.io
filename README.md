@@ -1,10 +1,12 @@
 # Training
 
-1. ## [JavaScript - Basic](./src/JS%20-%20Basic)
+1. ## [JavaScript - Basic](./src/JavaScript/JS%20-%20Basic)
 
-1. ## [JavaScript - Functional Programming](./src/JS%20-%20functional%20programming)
+1. ## [JavaScript - Functional Programming](./src/JavaScript/JS%20-%20functional%20programming)
 
-1. ## [JavaScript - OOP](./src/JS%20-%20OOP)
+1. ## [JavaScript - OOP](./src/JavaScript/JS%20-%20OOP)
+
+1. ## [Browers And DOM](./src/DOM)
 
 1. ## [JavaScript - Design Patterns](./src/JS%20-%20Design%20Patterns)
 
