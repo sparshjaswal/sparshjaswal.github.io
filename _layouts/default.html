@@ -4,7 +4,6 @@
 <head>
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
         type="text/css" crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -14,18 +13,11 @@
 <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     <header class="page-header" role="banner">
-        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h1 class="project-name">{{ page.title }}</h1>
     </header>
 
     <main id="content" class="main-content" role="main">
         {{ content }}
-
-        <footer class="site-footer">
-            <span class="site-footer-owner"><a href="https://www.linkedin.com/in/sparshjaswal/">
-                    <i class="fa fa-linkedin-square" style="font-size:24px"></i></a>.</span>
-
-            <span class="site-footer-credits">&#169;sparshjaswal</a>.</span>
-        </footer>
     </main>
 </body>
 
