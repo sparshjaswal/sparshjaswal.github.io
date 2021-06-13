@@ -38,7 +38,6 @@ Below are all Operators that are currently supported by the latest JavaScript st
 
 > _Statements are always evaluated left to right._
 
-## Conditional Operator
-
-Syntax:-
-expression ? statements(true) : statements(false)
+```javascript
+expression ? statements(true) : statements(false);
+```
