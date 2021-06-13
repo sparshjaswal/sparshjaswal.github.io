@@ -8,39 +8,19 @@ Below are all Operators that are currently supported by the latest JavaScript st
 
 ## Arithmetic
 
-```javascript
-+, -, \ , * , / , %
-```
-
-## Comparison
-
-```javascript
-== , === , !== , != , > , >= ,< , <=
-```
-
-## Bitwise
-
-```javascript
-& , | , ^ , ~ , << , >> , >>>
-```
-
-## Logical
-
-```javascript
-&& , || ,
-```
-
-## Assignment
-
-```javascript
-=
-```
-
-## Unary
-
-```javascript
-delete , in ,instanceof , new ,typeof, void , yield
-```
+| Arithmetic |
+| :--------: | --- | ---------- | --- | ------ | ---- | ----- | --- |
+|     +      | -   | \|\*       | /   | %      |
+| Comparison |
+|     ==     | === | !==        | !=  | >      | >=   | <     | <=  |
+|  Bitwise   |
+|     &      | \|  | ^          | ~   | <<     | >>   | >>>   |
+|  Logical   |
+|     &&     |     |            |     |
+| Assignment |
+|     =      |
+|   Unary    |
+|   delete   | in  | instanceof | new | typeof | void | yield |
 
 ## Conditional
 
