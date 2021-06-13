@@ -12,14 +12,19 @@ Below are all Operators that are currently supported by the latest JavaScript st
 | :--------: | --- | ---------- | --- | ------ | ---- | ----- | --- |
 |     +      | -   | \|\*       | /   | %      |
 | Comparison |
+| :--------: |
 |     ==     | === | !==        | !=  | >      | >=   | <     | <=  |
 |  Bitwise   |
+| :--------: |
 |     &      | \|  | ^          | ~   | <<     | >>   | >>>   |
 |  Logical   |
+| :--------: |
 |     &&     |     |            |     |
 | Assignment |
+| :--------: |
 |     =      |
 |   Unary    |
+| :--------: |
 |   delete   | in  | instanceof | new | typeof | void | yield |
 
 ## Conditional
