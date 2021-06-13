@@ -1,7 +1,4 @@
----
-layout: default
-title: Training
----
+# Training
 
 1. ## [JavaScript - Basic](./src/JavaScript/JS%20-%20Basic)
 
