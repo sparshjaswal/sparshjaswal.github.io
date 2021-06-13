@@ -1,6 +1,5 @@
 ---
-title: "Training Material"
-description: "All Detail Training Materials"
+title: ["Training"]
 ---
 
 1. ## [JavaScript - Basic](./src/JavaScript/JS%20-%20Basic)
