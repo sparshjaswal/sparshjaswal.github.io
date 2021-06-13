@@ -9,7 +9,7 @@ Below are all Operators that are currently supported by the latest JavaScript st
 ## Arithmetic
 
 ```javascript
-+, -, \* , / , %
++, -, \ , * , / , %
 ```
 
 ## Comparison
