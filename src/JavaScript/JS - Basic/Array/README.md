@@ -1,7 +1,12 @@
 # Array
 
-The array is a special type of identifier which can hold collections of variables. In javascript arrays are of type object and can hold any type of data. Array is a dynamic data structure.
-Creating an Array
+The array is a special type of identifier which can hold collections of variables.
+
+In javascript arrays are of type object and can hold any type of data.
+
+Array is a dynamic data structure.
+
+## Creating an Array
 
 ```javaScript
 var num = [1,2,3,4,5,6,7,8]
