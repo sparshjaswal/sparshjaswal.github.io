@@ -12,7 +12,7 @@ const config: Config = {
   baseUrl: '/',
   organizationName: 'sparshjaswal',
   projectName: 'sparshjaswal.github.io',
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
   onBrokenLinks: 'ignore',
   i18n: {
     defaultLocale: 'en',
