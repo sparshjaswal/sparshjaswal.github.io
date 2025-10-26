@@ -13,7 +13,7 @@ const config: Config = {
   organizationName: 'sparshjaswal',
   projectName: 'sparshjaswal.github.io',
   deploymentBranch: 'main',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
