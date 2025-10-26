@@ -26,5 +26,6 @@ jobs:
 
       - name: Deploy to GitHub Pages
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # token is automatically provided by GitHub Actions
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # token provided by GitHub Actions
+          GIT_USER: sparshjaswal                       # add your GitHub username here
         run: npm run deploy
