@@ -1,6 +1,9 @@
 # Dependencies
 /node_modules
 
+# Production build output
+/build
+
 # Docusaurus specific cache and output
 .docusaurus
 .cache
