@@ -624,7 +624,3 @@ class StatefulMediator {
 - [Mediator Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/mediator)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [MVC Pattern and Mediator](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

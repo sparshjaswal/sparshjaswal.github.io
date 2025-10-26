@@ -529,7 +529,3 @@ Object.assign(MyClass.prototype, Loggable);
 - [Decorator Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/decorator)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Decorator Pattern Examples](https://www.dofactory.com/javascript/design-patterns/decorator)
-
----
-
-[🔙 Back to Structural Patterns](../structural-patterns.md) | [🏠 Home](../../README.md)

@@ -1153,7 +1153,3 @@ console.log('App configuration:', appConfig);
 8. **Abstraction power** - write generic code that works with any monad
 
 Monads are the most powerful abstraction in functional programming, enabling elegant composition of complex operations while maintaining purity and predictability.
-
----
-
-*Next: Learn about [Referential Programming](../Referential%20Programming/) to understand the mathematical foundations that make all of this possible.*

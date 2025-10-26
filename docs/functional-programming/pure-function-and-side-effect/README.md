@@ -30,7 +30,7 @@ console.log(square(4)); // Always 16
 console.log(square(4)); // Always 16
 ```
 
-## ✅ Characteristics of Pure Functions
+## Characteristics of Pure Functions
 
 ### 1. **Deterministic Output**
 Given the same input, a pure function always produces the same output.
@@ -84,7 +84,7 @@ const result1 = double(5) + double(3);
 const result2 = 10 + 6; // Can substitute function calls with values
 ```
 
-## ❌ Side Effects Explained
+## Side Effects Explained
 
 A **side effect** is any application state change that is observable outside the called function. Side effects make code unpredictable and hard to test.
 
@@ -391,7 +391,7 @@ test('should format user data correctly', () => {
 });
 ```
 
-## 🛡️ Best Practices
+## Best Practices
 
 ### 1. **Function Design Principles**
 
@@ -578,13 +578,3 @@ testFunction(add, addContracts);
 8. **Leverage memoization** - cache results of expensive pure functions
 
 Pure functions form the foundation of functional programming. Master them, and you'll write more reliable, maintainable, and testable code.
-
----
-
-*Next: Learn about [Function Composition](../function%20&%20composition/) to combine pure functions into powerful abstractions.* 
-    values.reduce((acc, value) => acc + value, 0);
-```
-
----
-
-*Pure functions are the foundation of reliable, testable, and maintainable functional programming.*

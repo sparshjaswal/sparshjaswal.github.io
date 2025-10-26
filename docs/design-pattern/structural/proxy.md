@@ -605,7 +605,3 @@ class RemoteProxy {
 - [Proxy Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/proxy)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Proxy Pattern Examples](https://www.dofactory.com/javascript/design-patterns/proxy)
-
----
-
-[🔙 Back to Structural Patterns](../structural-patterns.md) | [🏠 Home](../../README.md)

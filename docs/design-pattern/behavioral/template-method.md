@@ -1035,7 +1035,3 @@ class FunctionalTemplate {
 - [Template Method Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/template-method)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Hollywood Principle: Don't call us, we'll call you](https://en.wikipedia.org/wiki/Hollywood_principle)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

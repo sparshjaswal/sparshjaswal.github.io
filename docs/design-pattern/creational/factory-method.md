@@ -767,7 +767,3 @@ class AsyncCreator {
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Factory Method Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/factory-method)
 - [JavaScript Factory Pattern](https://www.dofactory.com/javascript/design-patterns/factory-method)
-
----
-
-[🔙 Back to Creational Patterns](../creational-patterns.md) | [🏠 Home](../../README.md)

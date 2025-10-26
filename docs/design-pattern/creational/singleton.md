@@ -663,7 +663,3 @@ class ThreadSafeSingleton {
 - [Singleton Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/singleton)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Singleton Pattern Criticisms](https://stackoverflow.com/questions/137975/what-is-so-bad-about-singletons)
-
----
-
-[🔙 Back to Creational Patterns](../creational-patterns.md) | [🏠 Home](../../README.md)

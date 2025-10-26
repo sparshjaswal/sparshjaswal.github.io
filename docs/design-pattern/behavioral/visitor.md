@@ -1088,7 +1088,3 @@ class HierarchicalVisitor {
 - [Visitor Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/visitor)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Expression Problem and Visitor Pattern](https://en.wikipedia.org/wiki/Expression_problem)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

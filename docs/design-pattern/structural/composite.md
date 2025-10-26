@@ -562,7 +562,3 @@ class SafeComposite extends Component {
 - [Composite Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/composite)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Composite Pattern Examples](https://www.dofactory.com/javascript/design-patterns/composite)
-
----
-
-[🔙 Back to Structural Patterns](../structural-patterns.md) | [🏠 Home](../../README.md)

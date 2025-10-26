@@ -689,7 +689,3 @@ class AsyncCommand extends Command {
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Command Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/command)
 - [JavaScript Command Pattern](https://www.dofactory.com/javascript/design-patterns/command)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

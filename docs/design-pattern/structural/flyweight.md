@@ -587,7 +587,3 @@ class FlyweightFactory {
 - [Flyweight Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/flyweight)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Flyweight Pattern Examples](https://www.dofactory.com/javascript/design-patterns/flyweight)
-
----
-
-[🔙 Back to Structural Patterns](../structural-patterns.md) | [🏠 Home](../../README.md)

@@ -505,7 +505,3 @@ advancedRadioRemote.power();       // Turn off radio
 - [Bridge Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/bridge)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Bridge Pattern Examples](https://www.dofactory.com/javascript/design-patterns/bridge)
-
----
-
-[🔙 Back to Structural Patterns](../structural-patterns.md) | [🏠 Home](../../README.md)

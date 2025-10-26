@@ -405,7 +405,3 @@ class ClassAdapter extends OldClass {
 - [Adapter Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/adapter)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Adapter Pattern Examples](https://www.dofactory.com/javascript/design-patterns/adapter)
-
----
-
-[🔙 Back to Structural Patterns](../structural-patterns.md) | [🏠 Home](../../README.md)

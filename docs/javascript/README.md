@@ -24,18 +24,6 @@
 - [📖 About This Guide](#-about-this-guide)
 - [🎯 Who This Guide Is For](#-who-this-guide-is-for)
 - [🗺️ Learning Roadmap](#️-learning-roadmap)
-- [📚 Complete Curriculum](#-complete-curriculum)
-- [🎓 Study Methods & Tips](#-study-methods--tips)
-- [🔧 Development Setup](#-development-setup)
-- [💼 Interview Preparation](#-interview-preparation)
-- [❓ Interview Questions Bank](#-interview-questions-bank)
-- [🛠️ Practical Projects](#️-practical-projects)
-- [📊 Progress Tracking](#-progress-tracking)
-- [🤝 Community & Resources](#-community--resources)
-- [🎯 Quick Reference](#-quick-reference)
-- [📈 Learning Metrics](#-learning-metrics)
-- [🚀 Career Guidance](#-career-guidance)
-- [📞 Support](#-support)
 
 ---
 

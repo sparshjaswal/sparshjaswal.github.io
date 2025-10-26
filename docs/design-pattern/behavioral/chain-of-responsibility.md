@@ -564,7 +564,3 @@ class ConditionalHandler extends Handler {
 - [Chain of Responsibility - Refactoring.Guru](https://refactoring.guru/design-patterns/chain-of-responsibility)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Middleware Patterns](https://expressjs.com/en/guide/using-middleware.html)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

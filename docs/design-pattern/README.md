@@ -7,7 +7,6 @@
 - [What are Design Patterns?](#what-are-design-patterns)
 - [Benefits of Design Patterns](#benefits-of-design-patterns)
 - [Pattern Categories](#pattern-categories)
-- [SOLID Principles](#solid-principles)
 - [Quick Start](#quick-start)
 - [Resources](#resources)
 
@@ -30,7 +29,7 @@ Design patterns are **reusable solutions** to common problems in software design
 
 ## Pattern Categories
 
-### 🏗️ [Creational Patterns](./docs/creational-patterns.md)
+### 🏗️ Creational Patterns
 *Deal with object creation mechanisms*
 - **Factory Method** - Create objects without specifying exact classes
 - **Abstract Factory** - Create families of related objects  
@@ -38,7 +37,7 @@ Design patterns are **reusable solutions** to common problems in software design
 - **Prototype** - Clone existing objects
 - **Singleton** - Ensure only one instance exists
 
-### 🔗 [Structural Patterns](./docs/structural-patterns.md)
+### 🔗 Structural Patterns
 *Deal with object composition and relationships*
 - **Adapter** - Make incompatible interfaces work together
 - **Bridge** - Separate abstraction from implementation
@@ -47,7 +46,7 @@ Design patterns are **reusable solutions** to common problems in software design
 - **Facade** - Provide simplified interface to complex systems
 - **Flyweight** - Share objects efficiently to minimize memory usage
 
-### 🔄 [Behavioral Patterns](./docs/behavioral-patterns.md)
+### 🔄 Behavioral Patterns
 *Deal with communication between objects and algorithms*
 - **Chain of Responsibility** - Pass requests along a chain of handlers
 - **Command** - Encapsulate requests as objects
@@ -56,52 +55,6 @@ Design patterns are **reusable solutions** to common problems in software design
 - **Observer** - Notify multiple objects about state changes
 - **Strategy** - Select algorithms at runtime
 - **Template Method** - Define algorithm skeleton, let subclasses override steps
-## Quick Start
-
-🚀 **New to design patterns?** Check out our [**Getting Started Guide**](./GETTING-STARTED.md) for a personalized learning path!
-
-### Choose Your Journey:
-
-| Experience Level | Recommended Path | Duration |
-|-----------------|------------------|----------|
-| 🌟 **Beginner** | [Beginner Path](./GETTING-STARTED.md#-beginner-path) | 2-3 weeks |
-| 🔧 **Developer** | [Developer Path](./GETTING-STARTED.md#-developer-path) | 1-2 weeks |
-| 🎓 **Expert** | [Expert Path](./GETTING-STARTED.md#-expert-path) | 1 week |
-
-### Quick Commands:
-```bash
-# Install dependencies
-npm install
-
-# Run all examples
-npm run examples
-
-# Run specific category
-npm run creational    # Factory, Builder, Singleton, etc.
-npm run structural    # Adapter, Decorator, Facade, etc.
-npm run behavioral    # Observer, Strategy, Command, etc.
-```
-
-## Resources
-
-- 📁 **[/docs](./docs/)** - Detailed pattern explanations
-- 💾 **[/examples](./examples/)** - Code implementations  
-- 🏛️ **[/principles](./principles/)** - SOLID principles guide
-- 🚀 **[Getting Started](./GETTING-STARTED.md)** - Personalized learning paths
-- 📊 **[Project Structure](./STRUCTURE.md)** - Navigate the codebase
-- 🔗 **[External Resources](#external-links)** - Additional learning materials
-
-## Project Overview
-
-```
-📦 design-pattern/
-├── 🚀 GETTING-STARTED.md     # Your learning journey starts here
-├── 📊 STRUCTURE.md           # Project navigation guide  
-├── 📚 docs/                  # Pattern documentation
-├── 💻 examples/              # Working code examples
-├── 🏛️ principles/            # SOLID principles
-└── 📋 README.md             # This file
-```
 
 ---
 

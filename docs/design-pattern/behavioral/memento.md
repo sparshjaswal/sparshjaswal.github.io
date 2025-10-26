@@ -851,7 +851,3 @@ class CompressedMemento {
 - [Memento Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/memento)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Object Cloning for State Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/structuredClone)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

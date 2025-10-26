@@ -584,7 +584,3 @@ class AsyncContext {
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Strategy Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/strategy)
 - [JavaScript Strategy Pattern Examples](https://www.dofactory.com/javascript/design-patterns/strategy)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

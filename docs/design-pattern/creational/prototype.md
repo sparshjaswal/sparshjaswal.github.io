@@ -726,7 +726,3 @@ customDeepClone() {
 - [Prototype Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/prototype)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Object Cloning Techniques](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
-
----
-
-[🔙 Back to Creational Patterns](../creational-patterns.md) | [🏠 Home](../../README.md)

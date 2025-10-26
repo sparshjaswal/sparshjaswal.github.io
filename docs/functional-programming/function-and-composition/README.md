@@ -840,7 +840,3 @@ const lazyPipeline = (...fns) => (value) => {
 8. **Performance matters** - use memoization and lazy evaluation when appropriate
 
 Function composition is the heart of functional programming. It enables you to build complex behavior from simple, pure functions while maintaining readability and reusability.
-
----
-
-*Next: Learn about [Functor Functions](../Functor%20Functions/) to understand how to work with values in containers.*

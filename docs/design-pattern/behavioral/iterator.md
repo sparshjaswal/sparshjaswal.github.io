@@ -757,7 +757,3 @@ class BidirectionalIterator {
 - [Iterator Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/iterator)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

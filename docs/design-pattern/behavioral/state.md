@@ -819,7 +819,3 @@ class ParentState extends PlayerState {
 - [State Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/state)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Finite State Machines](https://en.wikipedia.org/wiki/Finite-state_machine)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

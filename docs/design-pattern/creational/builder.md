@@ -1157,7 +1157,3 @@ class GenericBuilder {
 - [Builder Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/builder)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Builder Pattern](https://www.dofactory.com/javascript/design-patterns/builder)
-
----
-
-[🔙 Back to Creational Patterns](../creational-patterns.md) | [🏠 Home](../../README.md)

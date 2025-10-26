@@ -370,7 +370,3 @@ class AsyncObserver extends Observer {
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Observer Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/observer)
 - [JavaScript Event System](https://developer.mozilla.org/en-US/docs/Web/Events)
-
----
-
-[🔙 Back to Behavioral Patterns](../behavioral-patterns.md) | [🏠 Home](../../README.md)

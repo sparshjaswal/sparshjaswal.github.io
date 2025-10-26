@@ -1121,7 +1121,3 @@ class SingletonAbstractFactory {
 - [Abstract Factory Pattern - Refactoring.Guru](https://refactoring.guru/design-patterns/abstract-factory)
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [JavaScript Abstract Factory Pattern](https://www.dofactory.com/javascript/design-patterns/abstract-factory)
-
----
-
-[🔙 Back to Creational Patterns](../creational-patterns.md) | [🏠 Home](../../README.md)
