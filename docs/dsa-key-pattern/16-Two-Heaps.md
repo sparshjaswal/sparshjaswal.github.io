@@ -37,18 +37,22 @@ O(n)
 ### Heap Setup
 - **Max Heap**: Stores smaller half of numbers
 - **Min Heap**: Stores larger half of numbers
-- **Invariant**: max_heap.size() ∈ {min_heap.size(), min_heap.size() + 1}
+- **Invariant**:```jsmax_heap.size() ∈ {min_heap.size(), min_heap.size() + 1}``
 
 ### Insert Operation
 1. **Add to appropriate heap**:
+```js
    - If max_heap is empty or num ≤ max_heap.top(): add to max_heap
    - Otherwise: add to min_heap
 2. **Rebalance if needed**:
    - If size difference > 1, move top element between heaps
+```
 
 ### Find Median
+```js
 - If max_heap.size() > min_heap.size(): return max_heap.top()
 - Otherwise: return (max_heap.top() + min_heap.top()) / 2
+```
 
 ## Variations
 - **Sliding Window**: Remove elements from heaps as window moves

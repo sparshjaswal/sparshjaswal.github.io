@@ -20,11 +20,13 @@ We have implemented the functionality of a basic calculator in filename calculat
 
 The main file script.js which utilizes only add function as we have only added functionality to be utilized from script.js.How can I achieve the same?
 
+```js
 <script src="operation.js"></script>
 
 <script src="script.js"></script>
 
 <title>Document</title>
+```
 
 From the above code we bring all global functionality in calculator.js and script.js together at the same level.Which is similar to writing all code in one file.
 Is it memory efficient?
