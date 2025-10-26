@@ -15,8 +15,7 @@ const config: Config = {
   deploymentBranch: 'main',
   onBrokenLinks: 'throw',
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'en'
   },
   presets: [
     [
