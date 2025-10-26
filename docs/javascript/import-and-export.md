@@ -1,9 +1,8 @@
 CHAPTER 40 | import & export [ ES 6 ]
-
+```js
 To understand the import and export features of modern javascript let’s do a small exercise and understand why we need these features?.
 We have implemented the functionality of a basic calculator in filename calculator.js as below
 
-```js
   function add(a,b){
        return a+b;
   }
@@ -16,10 +15,9 @@ We have implemented the functionality of a basic calculator in filename calculat
   function sub(a,b){
        return a-b;
  }
-```
 
 The main file script.js which utilizes only add function as we have only added functionality to be utilized from script.js.How can I achieve the same?
-
+```
 ```js
 <script src="operation.js"></script>
 
@@ -33,7 +31,6 @@ Is it memory efficient?
 No, cause you have a lot of functions in the global scope.
 It's very difficult to track the flow.
 JavaScript supports function scope, global scope and block scope. But one more scope we have seen is which is using IIFE.
-
 ```js
 const calculator = (function () {
     function add(a,b){
@@ -52,14 +49,12 @@ const calculator = (function () {
         add:add
     }
 })();
-```
 
 Calculator.js is written the above way then we are able to maintain modularity as the functions of Calculator.js is referred to below fashion.
 calculator.add(4,5)
 
 We can further optimise the above code and write like below.
 
-```js
 const calculator = (() => {
     return {
         add:function(a,b){
@@ -77,7 +72,6 @@ const calculator = (() => {
     }
 })();
 console.log(calculator.add(1,2))
-```
 
 Above pattern is also known as a revealing pattern, as we are exposing all the functionality that we require to use. A similar approach is being followed by Jquery.
 
@@ -109,7 +103,6 @@ Reusable code Encapsulation.Code Readability/Organized Code convenient The Issue
 
 To export the functionality you can keyword called the export
 
-```js
 export function add(a,b){
     return a+b;
 }
@@ -122,7 +115,6 @@ export function divide(a,b){
 export function sub(a,b){
     return a-b;
 }
-```
 
 To use the above functionality in any files in our code we use import keyword like below:-
 import { add } from './calculator'
@@ -130,7 +122,6 @@ console.log(add(1,2))
 
 We can use default import and there can be only one default export.
 
-```js
 export default moduleName 
 import functionality from './fileName'
 import { add, mul, sub,divide} from '/.fileName'
